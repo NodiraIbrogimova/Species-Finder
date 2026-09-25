@@ -1,0 +1,78 @@
+{
+    "id": "panthera-uncia",
+    "scientificName": "Panthera uncia",
+    "names": {
+        "uz": "Qor barsi",
+        "ru": "Снежный барс",
+        "en": "Snow leopard"
+    },
+    "source": "1-tur Qor barsi Panthera.docx",
+    "coordinateStatus": "document_provided_not_independently_verified",
+    "locations": [
+        {
+            "id": "hisor",
+            "name": {
+                "uz": "Hisor",
+                "ru": "Гиссар",
+                "en": "Hisor"
+            },
+            "latitude": 38.295,
+            "longitude": 67.498,
+            "population": null,
+            "surveyDate": null,
+            "boundary": null
+        },
+        {
+            "id": "chatqol",
+            "name": {
+                "uz": "Chatqol",
+                "ru": "Чаткал",
+                "en": "Chatqol"
+            },
+            "latitude": 41.405,
+            "longitude": 70.419,
+            "population": null,
+            "surveyDate": null,
+            "boundary": null
+        },
+        {
+            "id": "topolang",
+            "name": {
+                "uz": "Yuqori To‘polang",
+                "ru": "Верхний Тупаланг",
+                "en": "Upper To‘polang"
+            },
+            "latitude": 38.173,
+            "longitude": 67.186,
+            "population": null,
+            "surveyDate": null,
+            "boundary": null
+        },
+        {
+            "id": "zarafshon",
+            "name": {
+                "uz": "Zarafshon",
+                "ru": "Зарафшан",
+                "en": "Zarafshon"
+            },
+            "latitude": 39.278,
+            "longitude": 68.331,
+            "population": null,
+            "surveyDate": null,
+            "boundary": null
+        },
+        {
+            "id": "pskem",
+            "name": {
+                "uz": "Pskem–Ugam",
+                "ru": "Пскем–Угам",
+                "en": "Pskem–Ugam"
+            },
+            "latitude": 41.59,
+            "longitude": 70.25,
+            "population": null,
+            "surveyDate": null,
+            "boundary": null
+        }
+    ]
+}
