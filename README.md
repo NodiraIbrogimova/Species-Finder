@@ -1,6 +1,6 @@
 # O‘zbekiston hayvonlari xaritasi — Species Finder
 
-![Qor barsining yaqindan ko‘rinishi](assets/snow-leopard-zoomin.jpg)
+![Qor barsining yaqindan ko‘rinishi](assets/snow-leopard-zoomin.png)
 
 *Surat: Sergey Gorshkov, CC BY 4.0. Foydalanuvchi taqdim etgan hujjatdan olingan.*
 
@@ -10,7 +10,7 @@
 
 Loyihaning kelajakdagi maqsadi — foydalanuvchi yuklagan suratdagi hayvon turini taxmin qilish, natijani foydalanuvchiga tekshirtirish va tanlangan turning O‘zbekistondagi qayd etilgan joylarini ko‘rsatish.
 
-![Qor barsi tog‘li tabiiy muhitda](assets/in-nature.jpeg)
+![Qor barsi tog‘li tabiiy muhitda](assets/in-nature.png)
 
 *Surat: David Shaw, CC BY-NC 4.0. Ushbu suratdan foydalanishda notijorat foydalanish shartiga rioya qiling. Foydalanuvchi taqdim etgan hujjatdan olingan.*
 
