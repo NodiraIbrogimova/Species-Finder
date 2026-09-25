@@ -1,6 +1,6 @@
 # O‘zbekiston hayvonlari xaritasi — Species Finder
 
-![Qor barsining yaqindan ko‘rinishi](assets/image2.jpeg)
+![Qor barsining yaqindan ko‘rinishi](assets/snow-leopard-zoomin.jpg)
 
 *Surat: Sergey Gorshkov, CC BY 4.0. Foydalanuvchi taqdim etgan hujjatdan olingan.*
 
@@ -10,7 +10,7 @@
 
 Loyihaning kelajakdagi maqsadi — foydalanuvchi yuklagan suratdagi hayvon turini taxmin qilish, natijani foydalanuvchiga tekshirtirish va tanlangan turning O‘zbekistondagi qayd etilgan joylarini ko‘rsatish.
 
-![Qor barsi tog‘li tabiiy muhitda](assets/image3.jpeg)
+![Qor barsi tog‘li tabiiy muhitda](assets/in-nature.jpeg)
 
 *Surat: David Shaw, CC BY-NC 4.0. Ushbu suratdan foydalanishda notijorat foydalanish shartiga rioya qiling. Foydalanuvchi taqdim etgan hujjatdan olingan.*
 
@@ -24,13 +24,13 @@ Loyihaning kelajakdagi maqsadi — foydalanuvchi yuklagan suratdagi hayvon turin
 
 ## Xaritadagi joylar
 
-| Joy | Kenglik | Uzunlik |
-|---|---:|---:|
-| Hisor | 38.2950° N | 67.4980° E |
-| Chatqol | 41.4050° N | 70.4190° E |
+| Joy              |    Kenglik |    Uzunlik |
+| ---------------- | ---------: | ---------: |
+| Hisor            | 38.2950° N | 67.4980° E |
+| Chatqol          | 41.4050° N | 70.4190° E |
 | Yuqori To‘polang | 38.1730° N | 67.1860° E |
-| Zarafshon | 39.2780° N | 68.3310° E |
-| Pskem–Ugam | 41.5900° N | 70.2500° E |
+| Zarafshon        | 39.2780° N | 68.3310° E |
+| Pskem–Ugam       | 41.5900° N | 70.2500° E |
 
 Koordinatalar `1-tur Qor barsi Panthera.docx` hujjatidan olingan. Ularning aniqligi va kuzatuv sanalari mustaqil tekshirilmagan. Xaritadagi nuqta hayvonning butun yashash hududi chegarasini bildirmaydi.
 
